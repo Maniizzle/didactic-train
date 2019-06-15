@@ -1,0 +1,5 @@
+A delegate can be invoked like a method. This is because it is a reference to a method. Invoking a delegate will in-turn invoke the method which it refers to
+A delegate can be invoked in two ways
+ Using () Operator
+
+Using the Invoke() method of a Delegate
